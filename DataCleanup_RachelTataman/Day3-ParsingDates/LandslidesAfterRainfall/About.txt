@@ -1,0 +1,13 @@
+
+Landslides After Rainfall, 2007-2016
+Location and cause of landslide events around the world
+Last Updated a year ago
+About this Dataset
+Context
+Landslides are one of the most pervasive hazards in the world, causing more than 11,500 fatalities in 70 countries since 2007. Saturating the soil on vulnerable slopes, intense and prolonged rainfall is the most frequent landslide trigger.
+
+Content
+The Global Landslide Catalog (GLC) was developed with the goal of identifying rainfall-triggered landslide events around the world, regardless of size, impacts, or location. The GLC considers all types of mass movements triggered by rainfall, which have been reported in the media, disaster databases, scientific reports, or other sources.
+
+Acknowledgements
+The GLC has been compiled since 2007 at NASA Goddard Space Flight Center.
